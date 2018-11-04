@@ -1,2 +1,2 @@
 # Dienstapp-Exe
-Neues LSMC APP V0.01
+Neues LSMC APP V0.02
